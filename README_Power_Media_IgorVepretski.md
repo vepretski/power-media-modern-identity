@@ -12,7 +12,7 @@ It spans media framing, digital virality, public trust, surveillance ethics, and
 
 - [Full Book – PDF](Complete_Book_Igor_Vepretski.pdf)
 - [Word Document](Complete_Book_Igor_Vepretski.docx)
-- [Kindle/EPUB Version](Complete_Book_Igor_Vepretski.epub)
+- Kindle/EPUB Version (coming soon)
 - [Press Kit](Igor_Vepretski_Press_Kit.pdf)
 - [BibTeX Citation](Vepretski_Book_Citation.bib)
 
